@@ -1,3 +1,4 @@
-MOUSEKEY_ENABLE = no     # Mouse keys
-UNICODE_COMMON = yes
-
+MOUSEKEY_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+OLED_ENABLE     = yes
+LTO_ENABLE      = yes
